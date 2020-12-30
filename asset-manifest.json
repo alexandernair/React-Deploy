@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alexandernair/React-Deploy/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/alexandernair/React-Deploy/static/js/main.18a981d4.chunk.js",
+    "main.js.map": "/alexandernair/React-Deploy/static/js/main.18a981d4.chunk.js.map",
+    "runtime-main.js": "/alexandernair/React-Deploy/static/js/runtime-main.8a25e964.js",
+    "runtime-main.js.map": "/alexandernair/React-Deploy/static/js/runtime-main.8a25e964.js.map",
+    "static/js/2.d9361fa1.chunk.js": "/alexandernair/React-Deploy/static/js/2.d9361fa1.chunk.js",
+    "static/js/2.d9361fa1.chunk.js.map": "/alexandernair/React-Deploy/static/js/2.d9361fa1.chunk.js.map",
+    "static/js/3.8ca54252.chunk.js": "/alexandernair/React-Deploy/static/js/3.8ca54252.chunk.js",
+    "static/js/3.8ca54252.chunk.js.map": "/alexandernair/React-Deploy/static/js/3.8ca54252.chunk.js.map",
+    "index.html": "/alexandernair/React-Deploy/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/alexandernair/React-Deploy/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.d9361fa1.chunk.js.LICENSE.txt": "/alexandernair/React-Deploy/static/js/2.d9361fa1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/alexandernair/React-Deploy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a25e964.js",
+    "static/js/2.d9361fa1.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.18a981d4.chunk.js"
+  ]
+}
